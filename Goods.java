@@ -1,4 +1,4 @@
 public static void main()
   {
-    system.out.printlin  
+    system.out.println(This program for goods );
   }
